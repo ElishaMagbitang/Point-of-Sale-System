@@ -6,8 +6,7 @@ The POS System is a lightweight point-of-sale app designed for cafés. It focuse
 
 📖 Overview
 
-This POS system was developed as a basic cashiering tool to let staff quickly select items, calculate totals, and process customer payments. It does not include inventory, sales orders, or complex reporting—keeping the system simple and easy to use.
-
+This POS system was developed as a basic cashiering tool to let staff quickly select items, calculate totals, and process customer payments. 
 ✨ Key Features
 
 1. Product Categories:
