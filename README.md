@@ -27,3 +27,7 @@ This POS system was developed as a basic cashiering tool to let staff quickly se
 # File
 
 [POS System (PDF)](./Point-of-Sale-System.pdf)
+
+# POS Preview
+
+![POS Preview](./pos.png)
