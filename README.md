@@ -1,8 +1,8 @@
 # Point-of-Sale-System
 
-☕ Kape Radikal Point of Sale (POS) System
+☕ Point of Sale (POS) System
 
-The Kape Radikal POS System is a lightweight point-of-sale app designed for cafés. It focuses only on ordering and checkout for three categories of products: Hot Drinks, Cold Drinks, and Pastries.
+The POS System is a lightweight point-of-sale app designed for cafés. It focuses only on ordering and checkout for three categories of products: Hot Drinks, Cold Drinks, and Pastries.
 
 📖 Overview
 
