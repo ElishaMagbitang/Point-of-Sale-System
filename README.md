@@ -23,3 +23,7 @@ This POS system was developed as a basic cashiering tool to let staff quickly se
 3. Checkout: Automatically calculates total amount, accepts tendered cash, and shows change.
 
 4. Receipts: Simple breakdown of items and prices.
+
+# File
+
+[POS System (PDF)](./Point-of-Sale-System.pdf)
